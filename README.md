@@ -1,6 +1,6 @@
-# Hola-Mundo
-Este es mi primer repositorio.
+# Hola-Mundo 😎
+Este es mi primer repositorio.✔👌
 
-Autor: Alfredo Espejel
+Autor: Alfredo Espejel 😜
 
 Fecha: 06/02/22 
